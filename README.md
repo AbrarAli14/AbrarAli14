@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbrarAli14
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning 
+- 🌱 I’m Laravel PHP 
 - 💞️ I’m looking for software developer job position 
 - 📫 from 0 🆃🅾 🅸🅽🅵🅸🅽🅸🆃🆈...
 
