@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @AbrarAli14
-- 👀 I'm interested in Backend Web Development,Fronted web development and Graphics Design for any industry 
+- 👀 I'm interested in Backend & Fronted web development and Graphics Design for any industry 
 - 🌱 Laravel React PHP ❤❤❤
 - 💞️ I’m looking for any software development job position 
-🔭 I’m currently working Full stack web development 
-🤔 I’m looking for help with Open Source Contribution
+-🔭 I’m currently working Full stack web development 
+
+-🤔 I’m looking for help with Open Source Contribution
 
 📫 from 0 🆃🅾 🅸🅽🅵🅸🅽🅸🆃🆈...
 💬 Ask me about anything
