@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Open Source Contribution
 - 📫 from 0 🆃🅾 🅸🅽🅵🅸🅽🅸🆃🆈...
 - 💬 Ask me about anything
-- 📫 How to reach me: Gmail:alfati4560@gmail.com or Telegram: @ElzinAbrar
+- 📫 How to reach me: Gmail:abrar@elzinabrar.com or Telegram: @ElzinAbrar
 <!---
 AbrarAli14/AbrarAli14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
