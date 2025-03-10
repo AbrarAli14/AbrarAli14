@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abrar_ali68742" target="blank"><img src="https://img.shields.io/twitter/follow/abrar_ali68742?logo=twitter&style=for-the-badge" alt="abrar_ali68742" /></a> </p>
 
-- 🔭 I’m currently working on [Halal Certificate](https://oriasc.org/halal/)
 
-- 🌱 I’m currently learning **AWS,DevOps**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.elzinabrar.com/](https://portfolio.elzinabrar.com/)
 
