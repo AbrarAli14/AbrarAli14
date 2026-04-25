@@ -45,12 +45,5 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrarali14&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarali14&layout=compact&theme=tokyonight" />
-</p>
